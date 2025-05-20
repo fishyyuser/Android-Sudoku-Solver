@@ -24,7 +24,6 @@
   <li><code>app/</code> - Android application source code</li>
   <li><code>server/</code> - Flask-based backend API</li>
   <li><code>model/</code> - CNN training scripts and exported TFLite model</li>
-  <li><code>assets/</code> - Sample input images and outputs</li>
 </ul>
 
 <h2>📸 Example Flow</h2>
@@ -35,10 +34,3 @@
   <li>Digits are returned and displayed in a 9×9 editable grid.</li>
   <li>The app solves the puzzle on-device using backtracking.</li>
 </ol>
-
-<h2>📈 Future Enhancements</h2>
-<ul>
-  <li>Support for handwritten puzzle recognition</li>
-  <li>Offline image processing and digit recognition</li>
-  <li>Improved robustness under low-light conditions</li>
-</ul>
