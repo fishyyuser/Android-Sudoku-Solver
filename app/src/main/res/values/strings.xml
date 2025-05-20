@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Sudoku Solver</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Sudoku Solver</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="start">Start</string>
+    <string name="previous">Previous</string>
+    <string name="heading">Sudoku Solver</string>
+    <string name="upload">Upload Image</string>
+    <string name="Camera">Camera</string>
+    <string name="Solve">Solve</string>
+    <string name="Reset">Reset</string>
+
+    <string name="lorem_ipsum">
+        Sudoku Solver is an intelligent Android app that lets you solve Sudoku puzzles instantly using your camera or gallery images. Just snap a photo of a Sudoku grid or upload one, and the app will detect the puzzle, extract the digits, and solve it for you in real-time.
+
+    </string>
+</resources>
